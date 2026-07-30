@@ -1,0 +1,18 @@
+{
+  "name": "Checklist de Boas Práticas",
+  "short_name": "Checklist",
+  "description": "Aplicativo de Checklist de Boas Práticas para Tablet",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f0f4f8",
+  "theme_color": "#2c3e50",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2645/2645851.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
